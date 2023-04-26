@@ -5,3 +5,6 @@ Dve zvezdici za **debelo**, ena zvezdica *leže*. Besedilo lahko prečrtamo ~~pr
 
 ... def d(x) return 21 ...
 
+## Avtorji
+- Gal Oražem
+
